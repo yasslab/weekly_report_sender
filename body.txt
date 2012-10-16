@@ -1,0 +1,9 @@
+Hi #{my_boss},
+
+I am Yohei, sending my weekly report.
+
+I attached my excel sheet to this e-mail. 
+So I am glad if you check my weekly progress.
+
+Thanks,
+Yohei
