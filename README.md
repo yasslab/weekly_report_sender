@@ -2,7 +2,7 @@
 
 A ruby script that helps sending weekly report like this.
 
-![Screen Shot of Weekly Report Sender](http://dl.dropbox.com/u/2819285/wrs_ss.png)
+![Screen Shot of Weekly Report Sender](https://github.com/yasslab/weekly_report_sender/blob/master/wrs_ss.png?raw=true)
 
 ## Requirements
 
